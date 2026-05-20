@@ -1,0 +1,3 @@
+chrome.runtime.onInstalled.addListener(() => {
+  console.log('AI Media Inspector extension installed.');
+});
