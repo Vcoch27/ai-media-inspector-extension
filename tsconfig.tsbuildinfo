@@ -1,0 +1,1 @@
+{"root":["./src/chrome.d.ts","./src/vite-env.d.ts","./src/background/service-worker.ts","./src/content/content-script.ts","./src/popup/popup.tsx","./src/popup/main.tsx","./src/shared/extension-api.ts","./vite.config.ts"],"version":"6.0.3"}
